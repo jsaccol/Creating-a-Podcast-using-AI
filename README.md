@@ -8,3 +8,5 @@ Roteiro: ChatGPT
 Voz: ElevenLabs
 
 Software de edição: Adobe Premiere
+
+Link reserva: https://drive.google.com/drive/folders/1p5kTz5j62iTWAp2Nqi5HXRH2GUBluAY5?usp=drive_link
